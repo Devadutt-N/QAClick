@@ -4,6 +4,11 @@ public class Web {
 	
 	public void sample() {
 		System.out.println("success");
+		
+	}
+	
+	public void next() {
+		System.out.println("Accomplished");
 	}
 
 }
